@@ -18,13 +18,13 @@ This is a simple calculator app written in TypeScript. It is a simple project to
 
 ## Installation
 
-1) Clone the repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/JonathanGian/TS-Calculator.git
 ```
 
-2) Install the dependencies
+2. Install the dependencies
 
 ```bash
 npm install
@@ -50,3 +50,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Jonathan Gian
 
+Puja Kumari
